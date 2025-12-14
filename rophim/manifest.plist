@@ -35,9 +35,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>com.roteam.app</string>
+                <string>co.roteam.roteamios</string>
                 <key>bundle-version</key>
-                <string>1.1</string>
+                <string>1.0.5</string>
                 <key>title</key>
                 <string>VannQuocIsMe-Rổ Phim</string>
             </dict>
