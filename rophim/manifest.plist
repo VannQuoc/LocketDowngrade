@@ -35,7 +35,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>com.rophim.rm</string>
+                <string>co.roteam.roteamios</string>
                 <key>bundle-version</key>
                 <string>2.7.1</string>
                 <key>title</key>
